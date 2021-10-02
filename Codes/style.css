@@ -1,0 +1,40 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #00FFFF;
+
+}
+h1 {
+  font-family: 'Lobster', cursive;
+  
+}
+
+a:active {
+  color: #00FFFF;
+}
+
+.one {
+  list-style: square;
+}
+
+.one {
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  text-align: justify;
+  
+}
+
+p {
+  font-family: 'Lobster', cursive;
+  
+}
+
+p2 {
+  font-family: 'Lobster', cursive;
+  
+}
+
+
+
+
